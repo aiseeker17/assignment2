@@ -16,7 +16,7 @@
 }
 .black
 {
-    color: black;
+ color: black ;
 }
 .navbar{
     display: flex;
@@ -320,7 +320,15 @@ p {
    height: 50px;
    font-size: 18px;
 width: 100px;
-border: none;}
+border: none;
+}.btn2{
+   background-color: #E95A08;
+   color: white;
+   height: 50px;
+   font-size: 18px;
+width: 100px;
+border: none;
+}
 .footer{
     margin-top: 150px;
     display: flex;
